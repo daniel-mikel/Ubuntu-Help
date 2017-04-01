@@ -1,0 +1,7 @@
+Program is called speedtest-cli
+-saved in ubuntu repository
+-download with 
+>sudo apt install speedtest-cli
+
+Run with 
+>speedtest-cli
